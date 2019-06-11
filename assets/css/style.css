@@ -2,6 +2,18 @@
     box-sizing: border-box;
 }
 
+@media screen {
+    max-width: 980px;
+}
+
+@media screen {
+    max-width: 786px;
+}
+
+@media screen {
+    max-width: 640px;
+}
+
 body {
     margin: 0;
     padding: 0;
